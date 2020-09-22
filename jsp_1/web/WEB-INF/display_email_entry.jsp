@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Practise Example</title>
+    <title>Practise Example1</title>
 </head>
 <body>
     <%
